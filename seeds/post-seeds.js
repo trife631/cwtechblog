@@ -2,104 +2,44 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Donec posuere metus vitae ipsum.',
-    post_text: 'Nam faucibus, magna vel elementum maximus, magna tellus tincidunt arcu, eu semper justo augue eget est.',
+    title: 'yo.',
+    post_text: 'adlkfadf kal;djfal;dkfj at.',
     user_id: 10
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    post_text: 'Donec purus arcu, ultricies dapibus ante et, ullamcorper porta eros.',
+    title: 'ya.',
+    post_text: 'adfi adfkj;alkj akdljfa;ld.',
     user_id: 8
   },
   {
-    title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    post_text: 'Quisque nisi ante, auctor sed ex quis, consectetur tempor lacus.',
+    title: 'ah.',
+    post_text: 'adk akljflkajdf kljjfald .',
     user_id: 1
   },
   {
-    title: 'Nunc purus.',
-    post_text: 'Nulla mollis placerat tellus.',
+    title: 'yuh.',
+    post_text: 'lkadfjads ;lkjjlkad.',
     user_id: 4
   },
   {
-    title: 'Pellentesque eget nunc.',
-    post_text: 'Nulla mollis placerat tellus.',
+    title: 'aaayy.',
+    post_text: 'adjf kla;df k;lajd.',
     user_id: 7
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',
-    post_text: 'Nunc ut ornare metus.',
+    title: 'yerere.',
+    post_text: 'lakdfjaldkjfa.',
     user_id: 4
   },
   {
-    title: 'In hac habitasse platea dictumst.',
-    post_text: ' Sed tempus massa quis augue bibendum, vitae consectetur tellus imperdiet.',
+    title: 'psshh.',
+    post_text: ' lolololollllllllolololol.',
     user_id: 1
   },
+  
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    post_text: 'Praesent volutpat a neque et vestibulum.',
-    user_id: 1
-  },
-  {
-    title: 'Duis ac nibh.',
-    post_text: 'Cras tincidunt, mauris quis commodo lobortis, mauris augue tempor nisl, eget sagittis magna ex sed elit.',
-    user_id: 9
-  },
-  {
-    title: 'Curabitur at ipsum ac tellus semper interdum.',
-    post_text: 'Ut quam erat, auctor sit amet bibendum ut, posuere ut neque.',
-    user_id: 5
-  },
-  {
-    title: 'In hac habitasse platea dictumst.',
-    post_text: 'Vestibulum bibendum libero at mi euismod, et tincidunt arcu maximus.',
-    user_id: 3
-  },
-  {
-    title: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.',
-    post_text: 'Donec purus arcu, ultricies dapibus ante et, ullamcorper porta eros.',
-    user_id: 10
-  },
-  {
-    title: 'Donec dapibus.',
-    post_text: 'Aliquam nibh nibh, sagittis quis est sed, pellentesque finibus nisl.',
-    user_id: 8
-  },
-  {
-    title: 'Nulla tellus.',
-    post_text: 'Cras tincidunt, mauris quis commodo lobortis, mauris augue tempor nisl, eget sagittis magna ex sed elit.',
-    user_id: 3
-  },
-  {
-    title: 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.',
-    post_text: 'Cras tincidunt, mauris quis commodo lobortis, mauris augue tempor nisl, eget sagittis magna ex sed elit.',
-    user_id: 3
-  },
-  {
-    title:
-      'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.',
-    post_text: 'Etiam accumsan tincidunt consectetur.',
-    user_id: 7
-  },
-  {
-    title: 'In hac habitasse platea dictumst.',
-    post_text: 'Donec purus arcu, ultricies dapibus ante et, ullamcorper porta eros.',
-    user_id: 6
-  },
-  {
-    title: 'Etiam justo.',
-    post_text: 'In ac suscipit turpis.',
-    user_id: 4
-  },
-  {
-    title: 'Nulla ut erat id mauris vulputate elementum.',
-    post_text: 'Nulla facilisi.',
-    user_id: 6
-  },
-  {
-    title: 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
-    post_text: 'Cras tincidunt, mauris quis commodo lobortis, mauris augue tempor nisl, eget sagittis magna ex sed elit.',
+    title: 'aldkf  akfaldkfa d kljdlfkjasjd  k;adljfasldkjf .',
+    post_text: 'alkdjfadlkfj akjlkjadflkj.',
     user_id: 7
   }
 ];
