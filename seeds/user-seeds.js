@@ -5,17 +5,17 @@ const userdata = [
   {
     username: 'almostthere',
     email: 'gmail.com',
-    password: 'password7'
+    password: 'password789'
   },
   {
     username: 'pleasejehovahhelp7',
     email: 'gmail.com',
-    password: 'password7'
+    password: 'password789'
   },
   {
     username: 'brehbreh',
     email: 'gmail.com',
-    password: 'password7'
+    password: 'password789'
   },
 ];
 

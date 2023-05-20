@@ -14,7 +14,6 @@ const sess = {
   secret: 'Super secret secret',
   cookie: {
    
-    // session expires in two hours
     expires: 7200000
    
   },
